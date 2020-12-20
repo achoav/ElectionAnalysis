@@ -53,11 +53,11 @@ The findings of the following tasks were added to the final election audit in re
 Election Results
 Total Votes: 369,711
 
-Items (1) and (2). Voter turnout and Percentage of votes each county contributed to the election. 
+Voter turnout and Percentage of votes each county contributed to the election. 
 County Results: 
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801) 
-Item (3) Detrmine which county had the largest turnout. 
+Determine which county had the largest turnout. 
   - Largest County Turnout: Denver
 
