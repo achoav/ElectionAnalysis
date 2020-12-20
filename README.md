@@ -55,9 +55,9 @@ Total Votes: 369,711
 
 1 and 2. Voter turnout and Percentage of votes each county contributed to the election. 
 County Results:
-  i. Jefferson: 10.5% (38,855)
-  ii. Denver: 82.8% (306,055)
-  iii. Arapahoe: 6.7% (24,801)
+  i. Jefferson: 10.5% (38,855) 
+  ii. Denver: 82.8% (306,055) 
+  iii. Arapahoe: 6.7% (24,801) 
 
 3. Determine which county had the largest turnout. 
   Largest County Turnout: Denver
