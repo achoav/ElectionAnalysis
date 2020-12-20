@@ -28,14 +28,14 @@ The analysis of the election show that:
   Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
 Summary of Election:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
 Election Winner:
-Diana DeGette
-Vote Count: 272,892
-Percentage: 73.8%
+- Diana DeGette
+- Vote Count: 272,892
+- Percentage: 73.8%
 
 # Challenge Overview
 Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
