@@ -59,6 +59,6 @@ County Results:
   2. Denver: 82.8% (306,055)
   3. Arapahoe: 6.7% (24,801)
 
-3.Determine which county had the largest turnout. 
+3. Determine which county had the largest turnout. 
   Largest County Turnout: Denver
 
